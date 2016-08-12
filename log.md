@@ -23,3 +23,12 @@
 **Thoughts**: I am almost done with the image search project, need some styling.
 
 **Link(s) to work**: [Image Search Microservice](https://github.com/Ilyes-Hammadi/image_search)
+
+
+### Day 4: August 13, 2016
+
+**Today's Progress**: Working on the Free Code Camp file metadata project.
+
+**Thoughts**: Looking how to work with the Mutler.js for manipulations.
+
+**Link(s) to work**: [File Metadata Microservice](https://github.com/Ilyes-Hammadi/file_metadata)
