@@ -32,3 +32,11 @@
 **Thoughts**: Looking how to work with the Mutler.js for manipulations.
 
 **Link(s) to work**: [File Metadata Microservice](https://github.com/Ilyes-Hammadi/file_metadata)
+
+### Day 5: August 14, 2016
+
+**Today's Progress**: Working on the Free Code Camp file metadata project.
+
+**Thoughts**: Completed the file metadata project, taking a break and moving to the next challenges.
+
+**Link(s) to work**: [File Metadata Microservice](https://github.com/Ilyes-Hammadi/file_metadata)
