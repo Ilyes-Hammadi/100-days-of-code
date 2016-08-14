@@ -41,7 +41,7 @@
 
 **Link(s) to work**: [File Metadata Microservice](https://github.com/Ilyes-Hammadi/file_metadata)
 
-### Day 5: August 15, 2016
+### Day 6: August 15, 2016
 
 **Today's Progress**: Working on the Free Code Camp fontend challenges.
 
