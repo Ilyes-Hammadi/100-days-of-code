@@ -40,3 +40,11 @@
 **Thoughts**: Completed the file metadata project, taking a break and moving to the next challenges.
 
 **Link(s) to work**: [File Metadata Microservice](https://github.com/Ilyes-Hammadi/file_metadata)
+
+### Day 5: August 15, 2016
+
+**Today's Progress**: Working on the Free Code Camp fontend challenges.
+
+**Thoughts**: I am improving my skills in Javascript, learning some OOP.
+
+**Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.com)
