@@ -56,3 +56,12 @@
 **Thoughts**: I am improving my skills in Javascript, taking the Algorithms challenges.
 
 **Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.com)
+
+
+### Day 8: August 17, 2016
+
+**Today's Progress**: Working on the Free Code Camp Voting App project.
+
+**Thoughts**: Gettings started with mongose and passport.js, implemented the CRUD for the Poll model.
+
+**Link(s) to work**: [Voting App](https://github.com/Ilyes-Hammadi/voting_app)
