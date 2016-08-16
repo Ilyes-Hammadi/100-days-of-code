@@ -43,8 +43,16 @@
 
 ### Day 6: August 15, 2016
 
-**Today's Progress**: Working on the Free Code Camp fontend challenges.
+**Today's Progress**: Working on the Free Code Camp frontend challenges.
 
 **Thoughts**: I am improving my skills in Javascript, learning some OOP.
+
+**Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.com)
+
+### Day 7: August 16, 2016
+
+**Today's Progress**: Working on the Free Code Camp frontend challenges.
+
+**Thoughts**: I am improving my skills in Javascript, taking the Algorithms challenges.
 
 **Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.com)
